@@ -21,7 +21,7 @@
 ![Leadership badge](https://img.shields.io/badge/Team%20Leadership-8A2BE2)
 ![PM badge](https://img.shields.io/badge/Project%20Management-8A2BE2)
 
-Please visit links to the left for more details.
+For more details, please visit the links to the left.
 
 <!--
 **pnaylor/pnaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
