@@ -31,8 +31,8 @@ width="64" height="64" alt="CSS3" title="CSS3" />
 width="64" height="64" alt="Capacitor" title="Capacitor" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg"
 width="64" height="64" alt="Firebase" title="Firebase" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
-width="64" height="64" alt="GitHub" title="GitHub" />
+<i class="devicon-github-original-wordmark"          
+width="64" height="64" alt="GitHub" title="GitHub" /></i>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg"
 width="64" height="64" alt="GitLab" title="GitLab" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"
