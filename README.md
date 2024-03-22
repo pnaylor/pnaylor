@@ -6,7 +6,6 @@
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
-<div style="background-color:LightGray">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
 width="64" height="64" alt="JavaScript" title="JavaScript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"
@@ -31,8 +30,7 @@ width="64" height="64" alt="CSS3" title="CSS3" />
 width="64" height="64" alt="Capacitor" title="Capacitor" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg"
 width="64" height="64" alt="Firebase" title="Firebase" />
-<i class="devicon-github-original-wordmark"          
-width="64" height="64" alt="GitHub" title="GitHub" /></i>
+<i class="devicon-github-original-wordmark" /></i>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg"
 width="64" height="64" alt="GitLab" title="GitLab" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"
@@ -45,7 +43,6 @@ width="64" height="64" alt="Jira" title="Jira" />
 width="64" height="64" alt="Linux" title="Linux" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg"
 width="64" height="64" alt="Apache" title="Apache" />
-</div>
 
 For more details, please visit my [portfolio page](https://pnaylor.github.io) and [LinkedIn profile](https://www.linkedin.com/in/naylorp) .
 
