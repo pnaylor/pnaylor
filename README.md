@@ -6,58 +6,40 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
 width="64" height="64" alt="JavaScript" title="JavaScript" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"
 width="64" height="64" alt="TypeScript" title="TypeScript" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"
 width="64" height="64" alt="Vue" title="Vue" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 width="64" height="64" alt="Node" title="Node" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
 width="64" height="64" alt="Python" title="Python" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"
 width="64" height="64" alt="Django" title="Django" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 width="64" height="64" alt="PHP" title="PHP" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/drupal/drupal-original-wordmark.svg"
 width="64" height="64" alt="Drupal" title="Drupal" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
 width="64" height="64" alt="HTML5" title="HTML5" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
 width="64" height="64" alt="CSS3" title="CSS3" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/capacitor/capacitor-original-wordmark.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/capacitor/capacitor-plain-wordmark.svg"
 width="64" height="64" alt="Capacitor" title="Capacitor" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg"
 width="64" height="64" alt="Firebase" title="Firebase" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
-width="64" height="64" alt="GitHub" title="GitHub" />
-
+width="64" height="64" alt="GitHub" title="GitHub" style="background-color: white" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg"
 width="64" height="64" alt="GitLab" title="GitLab" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"
 width="64" height="64" alt="Vite" title="Vite" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 width="64" height="64" alt="MySQL" title="MySQL" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"
 width="64" height="64" alt="Jira" title="Jira" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 width="64" height="64" alt="Linux" title="Linux" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg"
 width="64" height="64" alt="Apache" title="Apache" />
 
