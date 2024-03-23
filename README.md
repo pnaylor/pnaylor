@@ -4,8 +4,6 @@
 
 ### ⚡ Skill Highlights 👨‍💻
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
 width="64" height="64" alt="JavaScript" title="JavaScript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"
@@ -26,23 +24,33 @@ width="64" height="64" alt="Drupal" title="Drupal" />
 width="64" height="64" alt="HTML5" title="HTML5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
 width="64" height="64" alt="CSS3" title="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"
+width="64" height="64" alt="Git" title="Git" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"
+width="64" height="64" alt="GitHub Actions" title="GitHub Actions" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg"
+width="64" height="64" alt="GitLab" title="GitLab" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/capacitor/capacitor-plain-wordmark.svg"
 width="64" height="64" alt="Capacitor" title="Capacitor" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg"
 width="64" height="64" alt="Firebase" title="Firebase" />
-<i class="devicon-github-original-wordmark" /></i>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg"
-width="64" height="64" alt="GitLab" title="GitLab" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-plain-wordmark.svg"
+width="64" height="64" alt="Google Cloud" title="Google Cloud" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"
 width="64" height="64" alt="Vite" title="Vite" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 width="64" height="64" alt="MySQL" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
+width="64" height="64" alt="VS Code" title="VS Code" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"
 width="64" height="64" alt="Jira" title="Jira" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 width="64" height="64" alt="Linux" title="Linux" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg"
 width="64" height="64" alt="Apache" title="Apache" />
+
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
+width="64" height="64" alt="GitHub" title="GitHub" /> -->
 
 For more details, please visit my [portfolio page](https://pnaylor.github.io) and [LinkedIn profile](https://www.linkedin.com/in/naylorp) .
 
