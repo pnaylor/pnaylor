@@ -27,7 +27,9 @@ width="64" height="64" alt="Drupal" title="Drupal" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 width="64" height="64" alt="PHP" title="PHP" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"
-width="64" height="64" alt="Git" title="Git" />  
+width="64" height="64" alt="Git" title="Git" />
+<img src="/assets/GitHub-356c7699.svg"
+width="64" height="64" alt="GitHub" title="GitHub">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"
 width="64" height="64" alt="GitHub Actions" title="GitHub Actions" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg"
@@ -40,14 +42,12 @@ width="64" height="64" alt="Firebase" title="Firebase" />
 width="64" height="64" alt="Google Cloud" title="Google Cloud" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg"
 width="64" height="64" alt="Azure" title="Azure" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-width="64" height="64" alt="MySQL" title="MySQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/capacitor/capacitor-plain-wordmark.svg"
 width="64" height="64" alt="Capacitor" title="Capacitor" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
 width="64" height="64" alt="VS Code" title="VS Code" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"
-width="64" height="64" alt="Jira" title="Jira" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+width="64" height="64" alt="MySQL" title="MySQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 width="64" height="64" alt="Linux" title="Linux" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg"
@@ -56,6 +56,9 @@ width="64" height="64" alt="Apache" title="Apache" />
 <!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
 width="64" height="64" alt="GitHub" title="GitHub" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"
+width="64" height="64" alt="Jira" title="Jira" />
 -->
 
 For more details, please visit my [portfolio page](https://pnaylor.github.io) and [LinkedIn profile](https://www.linkedin.com/in/naylorp) .
