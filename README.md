@@ -28,7 +28,7 @@ width="64" height="64" alt="Drupal" title="Drupal" />
 width="64" height="64" alt="PHP" title="PHP" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"
 width="64" height="64" alt="Git" title="Git" />
-<img src="/assets/GitHub-356c7699.svg"
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg"
 width="64" height="64" alt="GitHub" title="GitHub">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"
 width="64" height="64" alt="GitHub Actions" title="GitHub Actions" />
