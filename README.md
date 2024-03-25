@@ -14,14 +14,12 @@ width="64" height="64" alt="HTML5" title="HTML5" />
 width="64" height="64" alt="CSS3" title="CSS3" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
 width="64" height="64" alt="Python" title="Python" />
-<img src="https://ih1.redbubble.net/image.4735563815.6531/mo,small,flatlay,product_square,1000x1000.jpg"
-width="64" height="64" alt="Django" title="Django" />
-<img src="https://icon.icepanel.io/Technology/png-shadow-512/Django-REST.png"
-width="64" height="64" alt="Django REST Framework" title="Django REST Framework" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 width="64" height="64" alt="Node" title="Node" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"
 width="64" height="64" alt="Vue" title="Vue" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"
+width="64" height="64" alt="Django" title="Django" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/drupal/drupal-original-wordmark.svg"
 width="64" height="64" alt="Drupal" title="Drupal" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
@@ -44,6 +42,8 @@ width="64" height="64" alt="Google Cloud" title="Google Cloud" />
 width="64" height="64" alt="Azure" title="Azure" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/capacitor/capacitor-plain-wordmark.svg"
 width="64" height="64" alt="Capacitor" title="Capacitor" />
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Django-REST.png"
+width="64" height="64" alt="Django REST Framework" title="Django REST Framework" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
 width="64" height="64" alt="VS Code" title="VS Code" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
