@@ -14,10 +14,10 @@ width="64" height="64" alt="HTML5" title="HTML5" />
 width="64" height="64" alt="CSS3" title="CSS3" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
 width="64" height="64" alt="Python" title="Python" />
-<img src="https://e7.pngegg.com/pngimages/159/366/png-clipart-django-python-computer-icons-logo-python-text-label-thumbnail.png"
-width="64" height="64" alt="Django" title="Django" />
-<img src="https://icon.icepanel.io/Technology/png-shadow-512/Django-REST.png"
-width="64" height="64" alt="Django REST Framework" title="Django REST Framework" />
+<img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"
+width="64" alt="Django" title="Django" />
+<img src="https://www.django-rest-framework.org/img/logo.png"
+width="64" alt="Django REST Framework" title="Django REST Framework" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 width="64" height="64" alt="Node" title="Node" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"
