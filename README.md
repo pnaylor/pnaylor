@@ -14,14 +14,14 @@ width="64" height="64" alt="HTML5" title="HTML5" />
 width="64" height="64" alt="CSS3" title="CSS3" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
 width="64" height="64" alt="Python" title="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"
+<img src="https://nurtem.com/wp-content/uploads/2021/01/django.png"
 width="64" height="64" alt="Django" title="Django" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg"
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Django-REST.png"
 width="64" height="64" alt="Django REST Framework" title="Django REST Framework" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"
-width="64" height="64" alt="Vue" title="Vue" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 width="64" height="64" alt="Node" title="Node" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"
+width="64" height="64" alt="Vue" title="Vue" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/drupal/drupal-original-wordmark.svg"
 width="64" height="64" alt="Drupal" title="Drupal" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
