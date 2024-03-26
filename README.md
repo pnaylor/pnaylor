@@ -30,26 +30,26 @@ width="64" height="64" alt="GitHub" title="GitHub">
 width="64" height="64" alt="GitLab" title="GitLab" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"
 width="64" height="64" alt="Vite" title="Vite" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg"
-width="64" height="64" alt="Firebase" title="Firebase" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg"
-width="64" height="64" alt="Google Cloud" title="Google Cloud" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg"
 width="64" height="64" alt="Azure" title="Azure" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"
-width="64" height="64" alt="GitHub Actions" title="GitHub Actions" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg"
+width="64" height="64" alt="Google Cloud" title="Google Cloud" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg"
+width="64" height="64" alt="Firebase" title="Firebase" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+width="64" height="64" alt="MySQL" title="MySQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg"
-width="64" height="64" alt="Capacitor" title="Capacitor" />
+width="64" height="64" alt="Ionic" title="Ionic" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/capacitor/capacitor-plain-wordmark.svg"
 width="64" height="64" alt="Capacitor" title="Capacitor" />
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Django-REST.png"
 width="64" height="64" alt="Django REST Framework" title="Django REST Framework" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-width="64" height="64" alt="MySQL" title="MySQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
 width="64" height="64" alt="VS Code" title="VS Code" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 width="64" height="64" alt="Linux" title="Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"
+width="64" height="64" alt="GitHub Actions" title="GitHub Actions" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg"
 width="64" height="64" alt="Apache" title="Apache" />
 
